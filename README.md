@@ -1,4 +1,4 @@
-# Football Manager Project
+# Football League Management System
 
 ## Overview
 The Football Manager project is a console-based application that allows users to manage a football league. The system allows you to add teams, schedule matches, play games, display standings, and view the match schedule. It includes a simple simulation of matches and updates the league standings after each match.
